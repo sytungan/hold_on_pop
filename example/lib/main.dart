@@ -34,7 +34,18 @@ class MyHomePage extends StatelessWidget {
           children: [
             HoldOnPop(
               popup: _buildPopup(context),
-              child: const Text('Long press to show popup'),
+              child: TextButton(
+                style: TextButton.styleFrom(
+                  backgroundColor: Theme.of(context).primaryColor,
+                ),
+                onPressed: null,
+                child: const Text(
+                  'Long press to show popup',
+                  style: TextStyle(
+                    color: Colors.white,
+                  ),
+                ),
+              ),
             ),
           ],
         ),
