@@ -3,6 +3,7 @@ library hold_on_pop;
 import 'package:flutter/widgets.dart';
 import 'components/components.dart';
 
+/// @nodoc
 class HoldOnPop extends StatefulWidget {
   const HoldOnPop({
     super.key,
