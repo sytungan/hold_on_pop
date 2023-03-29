@@ -8,6 +8,8 @@
 - Supports customizing the look and feel of the widget, including the size, color, and shape of the popup.
 - Provides callbacks for handling when the user presses and releases their finger on the widget.
 
+![Hold on pop basic](https://media.giphy.com/media/vJlnDRyubtAEG1w3Sz/giphy.gif)
+
 ## Getting Started
 
 To use `hold_on_pop`, add `hold_on_pop` as a dependency in your `pubspec.yaml` file:
