@@ -1,6 +1,6 @@
 name: hold_on_pop
 description: A Flutter package that provides a widget that shows a popup when the user presses their finger and closes when they release it, similar to the functionality in Instagram.
-version: 0.0.4
+version: 0.0.5
 homepage: https://minis.codes
 repository: https://github.com/sytungan/hold_on_pop
 issue_tracker: https://github.com/sytungan/hold_on_pop/issues

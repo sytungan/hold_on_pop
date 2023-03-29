@@ -1,3 +1,7 @@
+## 0.0.5
+
+- Update changelog
+
 ## 0.0.4
 
 - Update comments
