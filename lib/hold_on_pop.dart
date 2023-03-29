@@ -1,9 +1,12 @@
+/// A Flutter package that provides a widget for displaying a popup when the
+/// user presses their finger and automatically closes it when they release it.
+/// The widget provides similar functionality to the hold-to-view feature found
+/// in social media apps like Instagram.
 library hold_on_pop;
 
 import 'package:flutter/widgets.dart';
 import 'components/components.dart';
 
-/// @nodoc
 class HoldOnPop extends StatefulWidget {
   const HoldOnPop({
     super.key,

@@ -1,5 +1,3 @@
-library hold_on_pop;
-
 import 'dart:ui';
 
 import 'package:flutter/widgets.dart';
