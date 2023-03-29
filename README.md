@@ -33,16 +33,16 @@ Here's an example of how to use the `HoldOnPop` widget:
 ```dart
 HoldOnPop(
     child: Container(
-    height: 100,
-    width: 100,
-    color: Colors.blue,
+      height: 100,
+      width: 100,
+      color: Colors.blue,
     ),
     popup: Container(
-    height: 50,
-    width: 50,
-    color: Colors.red,
+      height: 50,
+      width: 50,
+      color: Colors.red,
     ),
-);
+)
 ```
 
 In this example, we create a HoldOnPop widget with a blue Container as the child. We also define a `popup` property that creates a red Container as the popup.
