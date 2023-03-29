@@ -1,3 +1,7 @@
+## 0.0.4
+
+- Update comments
+
 ## 0.0.3
 
 - Fix dartdoc issues
